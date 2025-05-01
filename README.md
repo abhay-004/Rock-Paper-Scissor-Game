@@ -6,6 +6,10 @@ This is a simple **Rock Paper Scissors** game built using **HTML**, **CSS**, and
 
 👉 [View Live Demo](https://abhay-004.github.io/Rock-Paper-Scissor-Game/)  
 
+## 📸 Preview
+
+![Rock Paper And Scissor](screenshot/rockPaperAndScissor.PNG)
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the game
