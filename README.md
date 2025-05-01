@@ -4,7 +4,7 @@ This is a simple **Rock Paper Scissors** game built using **HTML**, **CSS**, and
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://abhay-004.github.io/Rock-Paper-Scissor-Game/)  
+👉 [View Live Demo](https://rock-paper-scissor-game-abhay-004.netlify.app/)  
 
 ## 📸 Preview
 
